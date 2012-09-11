@@ -7,6 +7,22 @@ Finite State Machine
 micro-framework](https://github.com/jakesgordon/javascript-state-machine) for
 the Rails asset pipeline.
 
+Usage
+-----
+
+First, add this to your project's Gemfile:
+
+    gem 'javascript-state-machine-rails'
+
+Run `bundle install` to install it, and then add this to your project's
+Javascript manifest file (`app/assets/javascript/application.js`):
+
+    //= require state_machine
+
+After that you're ready to roll. The [upstream project's
+README](https://github.com/jakesgordon/javascript-state-machine) is a good
+place to get started with some examples.
+
 Links
 -----
 
