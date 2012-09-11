@@ -7,3 +7,11 @@ Finite State Machine
 micro-framework](https://github.com/jakesgordon/javascript-state-machine) for
 the Rails asset pipeline.
 
+Links
+-----
+
+- [Upstream project
+  homepage](https://github.com/jakesgordon/javascript-state-machine)
+- [Gem homepage on
+  rubygems.org](https://rubygems.org/gems/javascript-state-machine-rails)
+
